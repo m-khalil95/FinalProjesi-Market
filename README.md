@@ -17,7 +17,7 @@ grafiksel olarak görüntülenip excel, word ve pdf çıktısı alınabilmektedi
   
 <h2>Satış Trendi
   
-  ![gitsat](https://user-images.githubusercontent.com/62529090/104782572-7afbd480-5795-11eb-8510-916b74042d3a.JPG)
+  ![gitsat](https://github.com/m-khalil95/FinalProjesi-Market/blob/main/3.jpg?raw=true)
   
   
 <h2>Ürün Kar Oranı
