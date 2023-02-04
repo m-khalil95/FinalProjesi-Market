@@ -22,5 +22,5 @@ grafiksel olarak görüntülenip excel, word ve pdf çıktısı alınabilmektedi
   
 <h2>Ürün Kar Oranı
   
-  ![gitrapor](https://user-images.githubusercontent.com/62529090/104782631-97980c80-5795-11eb-8d5b-e2f5f45e5721.JPG)
+  ![gitrapor](https://github.com/m-khalil95/FinalProjesi-Market/blob/main/4.jpg?raw=true)
    
