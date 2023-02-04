@@ -12,7 +12,7 @@ grafiksel olarak görüntülenip excel, word ve pdf çıktısı alınabilmektedi
 
 <h2>Ürün Listeleme
   
-  ![github](https://user-images.githubusercontent.com/62529090/104782473-4daf2680-5795-11eb-8f9c-02a3f3879507.JPG)
+  ![github](https://github.com/m-khalil95/FinalProjesi-Market/blob/main/2.jpg?raw=true)
   
   
 <h2>Satış Trendi
