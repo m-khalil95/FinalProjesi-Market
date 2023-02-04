@@ -7,20 +7,20 @@ grafiksel olarak görüntülenip excel, word ve pdf çıktısı alınabilmektedi
 <h2>Satış Sayfası
   
   
-  ![githubgriş](https://github.com/m-khalil95/FinalProjesi-Market/blob/main/1.jpg?raw=true))
+  ![githubgriş](https://github.com/m-khalil95/MarketOtomasyon/blob/main/1.jpg?raw=true)
 
 
 <h2>Ürün İşlemleri
   
-  ![github](https://github.com/m-khalil95/FinalProjesi-Market/blob/main/2.jpg?raw=true)
+  ![github](https://github.com/m-khalil95/MarketOtomasyon/blob/main/2.jpg?raw=true)
   
   
 <h2>Satış Trendi
   
-  ![gitsat](https://github.com/m-khalil95/FinalProjesi-Market/blob/main/3.jpg?raw=true)
+  ![gitsat](https://github.com/m-khalil95/MarketOtomasyon/blob/main/3.jpg?raw=true)
   
   
 <h2>Ürün Bazlı Rapor
   
-  ![gitrapor](https://github.com/m-khalil95/FinalProjesi-Market/blob/main/4.jpg?raw=true)
+  ![gitrapor](https://github.com/m-khalil95/MarketOtomasyon/blob/main/4.jpg?raw=true)
    
