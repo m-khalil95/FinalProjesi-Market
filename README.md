@@ -10,7 +10,7 @@ grafiksel olarak görüntülenip excel, word ve pdf çıktısı alınabilmektedi
   ![githubgriş](https://github.com/m-khalil95/FinalProjesi-Market/blob/main/1.jpg?raw=true))
 
 
-<h2>Ürün Listeleme
+<h2>Ürün İşlemleri
   
   ![github](https://github.com/m-khalil95/FinalProjesi-Market/blob/main/2.jpg?raw=true)
   
@@ -20,7 +20,7 @@ grafiksel olarak görüntülenip excel, word ve pdf çıktısı alınabilmektedi
   ![gitsat](https://github.com/m-khalil95/FinalProjesi-Market/blob/main/3.jpg?raw=true)
   
   
-<h2>Ürün Kar Oranı
+<h2>Ürün Bazlı Rapor
   
   ![gitrapor](https://github.com/m-khalil95/FinalProjesi-Market/blob/main/4.jpg?raw=true)
    
